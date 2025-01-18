@@ -43,7 +43,7 @@ function verificarChute() {
 
 //funcão para gerar número aleatório...
 function gerarNumeroAleatorio() {
-    return parseInt(Math.random() * 50 + 1)
+    return parseInt(Math.random() * 100 + 1)
 }
 
 /*
